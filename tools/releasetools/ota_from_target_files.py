@@ -937,8 +937,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print(" / /___ | |/ / /_/ / / /_/ / /_/ / /_/ / / / /   |  ");
   script.Print("/_____/ |___/\____/_/\__,_/\__/_/\____/_/ /_/_/|_|  ");
   script.Print("                                                    ");
-  script.Print("      by Stallix, RealAkito, AnierinB, Hugwalk      ");
-  script.Print("            & the whole Evolution X team            ");
+  script.Print("                 by Team Evolution X                ");
   script.Print("----------------------------------------------------");
   script.Print(" Android version: %s"%(android_version));
   script.Print(" Build id: %s"%(build_id));
